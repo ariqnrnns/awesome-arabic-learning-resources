@@ -1,6 +1,8 @@
 # 🇸🇦 Awesome resources for learning Arabic
 
-# السلام عليكم 👋. This is a curated & opinionated list of resources that I used when learning Arabic. Hope you find it useful!
+# السلام عليكم 👋. 
+
+This is a curated & opinionated list of resources that I used when learning Arabic. Hope you find it useful!
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/ariqnrnns/awesome-arabic-learning-resources/main/banner-awesome-arabic-learning-resources.jpg" alt="Awesome resources for learning Arabic Banner">
