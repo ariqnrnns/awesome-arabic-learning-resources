@@ -1,6 +1,8 @@
 # 🇸🇦 Awesome resources for learning Arabic
 
-# السلام عليكم 👋. 
+<div align="center">
+  السلام عليكم 👋 
+</div>
 
 This is a curated & opinionated list of resources that I used when learning Arabic. Hope you find it useful!
 
