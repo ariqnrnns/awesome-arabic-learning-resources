@@ -16,8 +16,8 @@
 - https://www.languageguide.org/arabic/vocabulary/
 - Duolingo
 
-
 ## 📗 Reading
+
 - https://languagedrops.com/language/learn-arabic
 - https://www.livelingua.com/course/fsi/modern_written_arabic_course_1
 - https://arabic.desert-sky.net/index.html
@@ -35,6 +35,7 @@
 - https://play.google.com/store/apps/details?id=tr.com.arabeeworld.arabee
 
 ## 👂 Listening
+
 - https://www.youtube.com/@ArabicPod101/videos
 - https://www.youtube.com/@ImranAlawiye-gatewaytoarabic/videos
 - https://www.youtube.com/@ArabicKhatawaat/videos
